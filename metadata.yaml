@@ -1,0 +1,33 @@
+_repo: Romney_36932
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36932-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Hind, C. Lewis (Charles Lewis)
+    aliases:
+    - Hind, Charles Lewis
+    - Hind, Lewis
+    - Hind, C. L. (Charles Lewis)
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '7231'
+    url: http://www.gutenberg.org/2009/agents/7231
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2011-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36932'
+  lccn: w08000038
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Romney, George, 1734-1802'
+title: Romney
+url: http://www.gutenberg.org/ebooks/36932
